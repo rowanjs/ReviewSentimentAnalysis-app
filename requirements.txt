@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+tensorflow-cpu
+sklearn
+beautifulsoup4
